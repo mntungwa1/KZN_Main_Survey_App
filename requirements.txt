@@ -1,0 +1,10 @@
+streamlit
+pandas
+geopandas
+shapely
+python-docx
+fpdf
+python-dotenv
+folium
+streamlit-folium
+openpyxl
